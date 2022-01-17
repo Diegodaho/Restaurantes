@@ -3,7 +3,7 @@ package com.example.dto;
 import java.time.LocalDateTime;
 
 public class ErrorDto {
-	
+//modificacion
 private LocalDateTime timestamp;
 	
 	private String status;
